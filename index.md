@@ -2,17 +2,17 @@
 
 ---
 
-### Category Name 1 
+### Areas of expertise
 
-[Project 1 Title](/sample_page)
+[Supply Chain - Strategic and Tactical Procurement](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Mechanical and Electronic Design](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Photography and 3d modeling](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
