@@ -1,29 +1,54 @@
-## Portfolio
-
----
-
-### Areas of expertise
+## Areas of expertise
 
 [Supply Chain - Strategic and Tactical Procurement](/sample_page)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Mechanical and Electronic Design](/pdf/sample_presentation.pdf)
+[Mechanical Design - Automotive, consumer electronics, ](/pdf/sample_presentation.pdf)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Photography and 3d modeling](http://example.com/)
+[Visual Design - Photography and 3D modeling](http://example.com/)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+<br></br>
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+# Project highlights
+---
+
+[Trinity XT TKL, a boutique mechanical keyboard](http://example.com/)
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+- Design, electronics and machined parts 
+- Collaborative DFM 
+- 
+
+---
+
+[Carbon 3d, year-long sourcing internship](http://example.com/)
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+- NPI Planning and material readiness 
+- PCB procurement 
+- KPI tracking and reporting 
+
+---
+
+[1995 Honda Civic, a forray into motorsports and automotive engineering](http://example.com/)
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+- Automotive mechanicals and electronics procurement
+- Vehicle dynamics basics
+- Design, fabricated mechanicals
+
 
 ---
 

@@ -1,47 +1,12 @@
-## Developer Portfolio Landing Page Template
+## Mill's Github pages portfolio
 
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
-
-SAMPLE BLOCK
+This is a quick portfolio I've put together of my various projects and professional experience. I've done many things across a few different industries and wanted to put it all in one, easily accessable place. 
 <br></br>
-SAMPLE BLOCK TWO
+This has been forked from evanca's quick portfolio, which can be found [here](https://github.com/evanca/quick-portfolio). I am new to building websites and have chosen to build a basic web portfolio to better my understanding of how code and web development works. 
 
-<img src="images/demo.gif?raw=true"/>
-
-### Installation
-
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
-
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<!-- HTML notes can be put into the page like this. -->
 
 ### Roadmap
 
